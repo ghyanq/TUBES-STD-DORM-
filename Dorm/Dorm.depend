@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587739168 source:d:\download\compressed\practical-data-structure-archive-master\multilinklist1\dorm\head.cpp
+	"head.h"
+
+1587738345 d:\download\compressed\practical-data-structure-archive-master\multilinklist1\dorm\head.h
+	<iostream>
+	<string>
+
+1587739123 source:d:\download\compressed\practical-data-structure-archive-master\multilinklist1\dorm\main.cpp
+	"head.h"
+
